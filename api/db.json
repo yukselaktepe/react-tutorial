@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Yüksel",
+      "department": "Bilgi İşlem"
+    },
+    {
+      "name": "Osman",
+      "department": "Polis Memuru",
+      "id": 2
+    },
+    {
+      "name": "Hikmet",
+      "department": "DB Manager",
+      "id": 3
+    },
+    {
+      "name": "Murat",
+      "department": "IT",
+      "id": 4
+    },
+    {
+      "name": "Adem Aktepe",
+      "department": "Co Founder",
+      "id": 5
+    }
+  ]
+}
